@@ -1,4 +1,4 @@
 # Face-Rcogintion-api
-clone this repo
-run npm install 
-run npm start
+1) clone this repo
+2) run npm install 
+3) run npm start
