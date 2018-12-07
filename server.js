@@ -19,6 +19,22 @@ const database={
 			password:"shake",
 			joining: new Date(),
 			entries:0
+		},
+		{
+			id:"125",
+			name:"User",
+			email:"user@gmail.com",
+			password:"password",
+			joining: new Date(),
+			entries:0
+		},
+		{
+			id:"126",
+			name:"John",
+			email:"john@gmail.com",
+			password:"123",
+			joining: new Date(),
+			entries:0
 		}
 
 	]
